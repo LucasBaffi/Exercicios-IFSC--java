@@ -7,6 +7,7 @@ class atividade10{
         try (Scanner leia = new Scanner(System.in)) {
             byte contador = 1, alunos;
             float n1, n2, n3;
+        
             double mediaGeral,media, somaMedia=0, aprovado=0, reprovado=0, recuperacao=0, maiorMedia=0;
             String status = "aprovado", nome, alunoMaiorMedia = "";
 
