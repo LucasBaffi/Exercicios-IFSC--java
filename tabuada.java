@@ -26,7 +26,7 @@ class tabuada {
                 }                
                 if(resposta.equals("n")){
                         System.out.println("fim");
-                    }+
+                    }
                 
 
             } while (resposta.equals("s")  );

@@ -26,7 +26,7 @@ public class ordemCrescente {
                     System.out.println(n2 + " " + n3 + " " + n1);
                 }
             }else if(n3 < n1 && n3 < n2){
-                if(n1 <1 n2){
+                if(n1 < n2){
                     System.out.println(n3 + " " + n1 + " " + n2);
                 }else{
                     System.out.println(n3 + " " + n2 + " " + n1);
